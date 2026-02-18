@@ -1,3 +1,19 @@
+## 😎 La flemme de coder ?
+
+Si vous avez la flemme d'être développeur et que vous voulez un **Expert Advisor personnalisé** sans écrire une seule ligne de code, venez voir notre générateur en ligne :
+
+### 👉 [**EA Creator — Créez votre EA en 2 minutes**](https://autoea.online/generate) 👈
+
+- ✅ Aucune compétence en programmation requise
+- ✅ Configurez visuellement vos modules (SL, TP, Break Even, Trailing Stop...)
+- ✅ Fichier `.ex5` compilé et livré par email en 5 minutes
+- ✅ Compatible toutes les Prop Firms
+- ✅ Lié à votre compte MT5 pour plus de sécurité
+
+> 🌐 **Site web :** [https://autoea.online](https://autoea.online)
+>
+> 📧 **Contact :** snowfallsys@proton.me
+
 # 🎯 Tutoriel MT5 — Placer un Take Profit Automatiquement (Gestion du Risque)
 
 [![MetaTrader 5](https://img.shields.io/badge/MetaTrader_5-Expert_Advisor-blue?style=for-the-badge&logo=metatrader5)](https://www.metatrader5.com)
@@ -697,21 +713,7 @@ Oui, les EA de gestion du risque sont généralement **autorisés et recommandé
 
 ---
 
-## 😎 La flemme de coder ?
 
-Si vous avez la flemme d'être développeur et que vous voulez un **Expert Advisor personnalisé** sans écrire une seule ligne de code, venez voir notre générateur en ligne :
-
-### 👉 [**EA Creator — Créez votre EA en 2 minutes**](https://autoea.online/generate) 👈
-
-- ✅ Aucune compétence en programmation requise
-- ✅ Configurez visuellement vos modules (SL, TP, Break Even, Trailing Stop...)
-- ✅ Fichier `.ex5` compilé et livré par email en 5 minutes
-- ✅ Compatible toutes les Prop Firms
-- ✅ Lié à votre compte MT5 pour plus de sécurité
-
-> 🌐 **Site web :** [https://autoea.online](https://autoea.online)
->
-> 📧 **Contact :** snowfallsys@proton.me
 
 ---
 
@@ -724,3 +726,4 @@ Ce projet est sous licence [MIT](LICENSE). Vous êtes libre de l'utiliser, le mo
 <p align="center">
   Fait par <a href="https://autoea.online">EA Creator</a>
 </p>
+
